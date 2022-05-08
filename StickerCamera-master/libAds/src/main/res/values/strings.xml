@@ -1,0 +1,11 @@
+<resources>
+    <!--PASTE YOUR ADMOB APP ID HERE. Ex: ca-app-pub-XXXXXXXXXXXXXXXX~NNNNNNNNNN-->
+    <string name="admob_app_id">ca-app-pub-7897516872608980~9739446159</string>
+
+    <!--PASTE YOUR BANNER AD UNIT UD HERE. Ex: ca-app-pub-XXXXXXXXXXXXXXXX/NNNNNNNNNN-->
+    <string name="banner_ad_unit_id" >ca-app-pub-7897516872608980/2216179356</string>
+
+
+    <!--PASTE YOUR INTERSTITIAL AD UNIT UD HERE. Ex: ca-app-pub-XXXXXXXXXXXXXXXX/NNNNNNNNNN-->
+    <string name="interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

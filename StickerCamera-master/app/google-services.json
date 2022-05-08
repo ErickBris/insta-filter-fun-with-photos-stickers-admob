@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "278943228001",
+    "firebase_url": "https://instafilter-d7255.firebaseio.com",
+    "project_id": "instafilter-d7255",
+    "storage_bucket": "instafilter-d7255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278943228001:android:c7dd5a8eaa81576f",
+        "android_client_info": {
+          "package_name": "com.agileinfoways.instafilter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278943228001-eerqquh1nk6c55i47pskhs2vasrab1d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-H3yvOuEee6dIhBidSjgT50VmT0um8Vw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
